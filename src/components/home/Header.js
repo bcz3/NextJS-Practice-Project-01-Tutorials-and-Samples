@@ -52,7 +52,7 @@ const Header = () => {
                                 router.push('/');
                             }
                         }
-                    >Home</li>
+                    >Beranda</li>
                     <li onClick={
                             (e)=>{
                                 router.push('/countries')
